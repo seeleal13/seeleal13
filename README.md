@@ -25,7 +25,7 @@
 </div>
 
 
-<img align="right" height="150" src="[https://tenor.com/view/nyanpls-nyan-bttv-twitch-dance-gif-15991887](https://tenor.com/bfgnP.gif)"  />
+<img align="right" height="150" src="https://tenor.com/view/nyanpls-nyan-bttv-twitch-dance-gif-15991887"  />
 
 
 
