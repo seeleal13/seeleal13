@@ -25,7 +25,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://tenor.com/view/nyanpls-nyan-bttv-twitch-dance-gif-15991887"  />
+<img align="right" height="150" src="[https://tenor.com/view/nyanpls-nyan-bttv-twitch-dance-gif-15991887](https://tenor.com/bfgnP.gif)"  />
 
 
 
@@ -39,6 +39,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
