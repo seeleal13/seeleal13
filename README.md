@@ -1,4 +1,4 @@
-# AMINE-OUBARI
+# seeleal13
 <h1 align="center">Hi 👋, I am seeleal13 </h1>
 <h3 align="center">first-year university student / Learning in Progress...</h3>
 
