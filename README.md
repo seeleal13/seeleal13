@@ -1,6 +1,6 @@
 # AMINE-OUBARI
-<h1 align="center">Hi 👋, I am AMINE OUBARI</h1>
-<h3 align="center">UNIVERSITY FRESHMAN / Learning in Progress...</h3>
+<h1 align="center">Hi 👋, I am seeleal13 </h1>
+<h3 align="center">first-year university student / Learning in Progress...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeleal13&label=Profile%20views&color=0e75b6&style=flat" alt="seeleal13" /> </p>
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I thought about making this during an exam**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
