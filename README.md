@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeleal13&label=Profile%20views&color=0e75b6&style=flat" alt="seeleal13" /> </p>
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **C/C++ and Python**
 
 - 📫 How to reach me **amine.oubari.07@gmail.com**
 
